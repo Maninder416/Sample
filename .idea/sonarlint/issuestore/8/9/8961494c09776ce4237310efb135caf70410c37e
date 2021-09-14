@@ -1,0 +1,14 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "sdf".(Ηζ¥
+>
+java:S1481"(Remove this unused "sdf" local variable.(Ηζ¥
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(ό®να
+W
+java:S1075/"ARefactor your code to get this URI from a customizable parameter.(Δι—Κ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(κΏμε
+b
+java:S20952"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(‘’――
+g
+java:S20950"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ή®Ωÿÿÿÿÿ

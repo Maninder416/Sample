@@ -1,0 +1,8 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "j".(עֿ¾€רÿÿÿÿ
+A
+java:S1481"&Remove this unused "j" local variable.(עֿ¾€רÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êסתשÿÿÿÿ
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(עֿ¾€רÿÿÿÿ
